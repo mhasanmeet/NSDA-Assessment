@@ -19,3 +19,17 @@ setInterval(updateTime, 1000);
 
 // Initial call to display time immediately
 updateTime();
+
+
+function updateDate() {
+    const today = new Date();
+    const day = today.getDate();
+    const month = today.toLocaleString('default', { month: 'long' }); // Get full month name
+    const year = today.getFullYear();
+
+    const dateString = `${month} ${day}, ${year}`;
+    document.getElementById('date').textContent = dateString;
+}
+
+// Call updateDate to display today's date immediately
+updateDate();

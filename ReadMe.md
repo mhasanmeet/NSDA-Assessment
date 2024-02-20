@@ -1,10 +1,24 @@
-Design Procedure Checklist
+Task Checklist
 
 - [X] Turn On Computer
 - [X] Prepare work schedule using google sheet
 - [X] Install text editor, web browser, FTP client server
 - [X] Install local web server, Laragon
 - [X] Create website directory inside the local web server
+- [X] Create web page inside created directory under local server
+- [X] Link external CSS and JavaScript file in every HTML
+- [X] Integrate CSS framework to HTML page 
+- [X] Design the website pages
+- [X] Create information popup window message using JS when submit the contact form
+- [X] Using CSS & JS make a collapsible FAQ
+- [X] Create an unordered  list using CSS styles 
+- [X] Create an external link with target blank attribute 
+- [X] Show date & Time using JS
+- [X] Resize and use image as required
+- [X] Link navigation menus with all created page 
+- [X] Complete the website 
+- [X] Test and review the website as required 
+- [X] Submit the website to accessor as per instruction 
 
 
 Page 1 : Homepage
