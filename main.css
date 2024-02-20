@@ -17,3 +17,10 @@
     margin: 5rem 0;
 }
 
+.customer img{
+    width: 5rem;
+}
+
+.review-star{
+   color: rgb(255, 174, 0);
+}
