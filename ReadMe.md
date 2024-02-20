@@ -32,5 +32,7 @@ Page 4 : FAQ
 
 Other Functionality
 
-- [x] Added time functionality
+- [x] Added current time functionality
+- [x] contact form confirmation popup functionality
+- [x] Inter page linking
 
