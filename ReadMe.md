@@ -13,3 +13,8 @@ Page 1 : Homepage
 - [x] Banner
 - [x] Food Menu
 - [x] Customer feedback
+
+Page 1 : About Us
+
+- [x] Staff Profile with text
+- [x] About company with Image
