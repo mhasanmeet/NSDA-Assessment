@@ -1,0 +1,15 @@
+.banner{
+    background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://source.unsplash.com/syVqx2fQ2MY");
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center; 
+    color: white;  
+}
+
+.banner button{
+    width: fit-content;
+    margin-inline: auto;
+}
+
