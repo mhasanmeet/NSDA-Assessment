@@ -14,7 +14,14 @@ Page 1 : Homepage
 - [x] Food Menu
 - [x] Customer feedback
 
-Page 1 : About Us
+Page 2 : About Us
 
 - [x] Staff Profile with text
 - [x] About company with Image
+
+
+Page 3 : Conatct Us
+
+- [x] conatct form 
+- [x] conatct information (Address, Email, Phone Number)
+
