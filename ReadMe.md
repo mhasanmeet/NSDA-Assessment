@@ -9,4 +9,5 @@ Design Procedure Checklist
 
 Page 1 : Homepage
 
-- [x] Banner done
+- [x] Navbar
+- [x] Banner
