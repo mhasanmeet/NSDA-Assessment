@@ -30,3 +30,7 @@ Page 4 : FAQ
 
 - [x] Collapsible Question and answe FAQ
 
+Other Functionality
+
+- [x] Added time functionality
+
