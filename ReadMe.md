@@ -11,3 +11,4 @@ Page 1 : Homepage
 
 - [x] Navbar
 - [x] Banner
+- [x] Food Menu
