@@ -25,3 +25,8 @@ Page 3 : Conatct Us
 - [x] conatct form 
 - [x] conatct information (Address, Email, Phone Number)
 
+
+Page 4 : FAQ
+
+- [x] Collapsible Question and answe FAQ
+
